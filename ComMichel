@@ -1,0 +1,70 @@
+{
+  "Git-kommandon": [
+    {
+      "kommando": "git branch feature/new-feature",
+      "beskrivning": "Skapar en ny gren för ett nytt feature",
+      "användning": "git branch feature/new-feature"
+    },
+    {
+      "kommando": "git checkout -b feature/new-feature",
+      "beskrivning": "Växlar till den nya grenen",
+      "användning": "git checkout -b feature/new-feature"
+    },
+    {
+      "kommando": "git merge origin/master",
+      "beskrivning": "Slår ihop lokala ändringar med fjärrkopian",
+      "användning": "git merge origin/master"
+    },
+    {
+      "kommando": "git reset --soft",
+      "beskrivning": "Återställer arbetsmappen till den senaste commiten men behåller ändringarna",
+      "användning": "git reset --soft"
+    },
+    {
+      "kommando": "git cherry-pick <commit-hash>",
+      "beskrivning": "Upprepar en specifik commit i en annan gren",
+      "användning": "git cherry-pick <commit-hash>"
+    },
+    {
+      "kommando": "git revert <commit-hash>",
+      "beskrivning": "Återställer en specifik commit till sitt ursprungligastånd",
+      "användning": "git revert <commit-hash>"
+    },
+    {
+      "kommando": "git clean -df",
+      "beskrivning": "Rensar arbetsmappen från oönskade filer och direktörer",
+      "användning": "git clean -df"
+    },
+    {
+      "kommando": "git ls-files",
+      "beskrivning": "Visar en lista över alla filer i arbetsmappen",
+      "användning": "git ls-files"
+    },
+    {
+      "kommando": "git mv <file> <new-file>",
+      "beskrivning": "Flyttar en fil till ett nytt namn",
+      "användning": "git mv <file> <new-file>"
+    },
+    {
+      "kommando": "git rm <file>",
+      "beskrivning": "Tar bort en fil från arbetsmappen",
+      "användning": "git rm <file>"
+    },
+    {
+      "kommando": "git stash",
+      "beskrivning": "Sparar lokala ändringar i en temporär storage",
+      "användning": "git stash"
+    },
+    {
+      "kommando": "git stash pop",
+      "beskrivning": "Återställer sparade ändringar från temporär storage",
+      {"användning" : }
+     = git
+     = stash
+     =
+     =
+     = git
+     = pop
+     =
+     =
+     = git
