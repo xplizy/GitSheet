@@ -1,0 +1,79 @@
+{
+  "Git-kommandon": [
+    {
+      "kommando": "git init",
+      "beskrivning": "Initierar ett nytt Git-lager och skapar en .git-katalog",
+      "användning": "git init"
+    },
+    {
+      "kommando": "git add .",
+      "beskrivning": "Lägger till alla ändringar i arbetsmappen till staging",
+      "användning": "git add ."
+    },
+    {
+      "kommando": "git commit -m \"Initial commit\"",
+      "beskrivning": "Sparar ändringarna i en commit med en beskrivning",
+      "användning": "git commit -m \"Initial commit\""
+    },
+    {
+      "kommando": "git log",
+      "beskrivning": "Visar en lista över alla commitar i projektet",
+      "användning": "git log"
+    },
+    {
+      "kommando": "git branch",
+      "beskrivning": "Visar en lista över alla grenar i projektet",
+      "användning": "git branch"
+    },
+    {
+      "kommando": "git checkout master",
+      "beskrivning": "Växlar till den aktuella grenen (master)",
+      "användning": "git checkout master"
+    },
+    {
+      "kommando": "git merge dev",
+      "beskrivning": "Slår ihop grenen dev med master",
+      "användning": "git merge dev"
+    },
+    {
+      "kommando": "git reset --hard",
+      "beskrivning": "Återställer arbetsmappen till den senaste commiten",
+      "användning": "git reset --hard"
+    },
+    {
+      "kommando": "git status",
+      "beskrivning": "Visar statusen för arbetsmappen och vilka ändringar som är på väg att sparas",
+      "användning": "git status"
+    },
+    {
+      "kommando": "git diff",
+      "beskrivning": "Visar de ändringar som har gjorts sedan förra commiten",
+      "användning": "git diff"
+    },
+    {
+      "kommando": "git remote add origin <repository-url>",
+      "beskrivning": "Lägger till en fjärrkopia av projektet",
+      "användning": "git remote add origin <repository-url>"
+    },
+    {
+      "kommando": "git push origin master",
+      "beskrivning": "Skickar ändringarna till fjärrkopian",
+      "användning": "git push origin master"
+    },
+    {
+      "kommando": "git fetch",
+      "beskrivning": "Hämtar de senaste ändringarna från fjärrkopian",
+      "användning": "git fetch"
+    },
+    {
+      "kommando": "git pull",
+     ="beskrivning" : "",,
+="användning" : ""
+     },
+     {
+     "",
+     "":
+     ""
+     },
+  ]
+}
