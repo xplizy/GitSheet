@@ -1,0 +1,49 @@
+{
+  "Git-kommandon": [
+    {
+      "kommando": "git clone <repository-url>",
+      "beskrivning": "Klonar ett nytt Git-lager från fjärrkopian",
+      "användning": "git clone <repository-url>"
+    },
+    {
+      "kommando": "git config --global user.name \"Your Name\"",
+      "beskrivning": "Konfigurerar användarnamnet i Git-lagret",
+      "användning": "git config --global user.name \"Your Name\""
+    },
+    {
+      "kommando": "git config --global user.email \"your.email@example.com\"",
+      "beskrivning": "Konfigurerar e-postadressen i Git-lagret",
+      "användning": "git config --global user.email \"your.email@example.com\""
+    },
+    {
+      "kommando": "git diff --cached",
+      "beskrivning": "Visar de ändringar som har sparats men inte commits om än",
+      "användning": "git diff --cached"
+    },
+    {
+      "kommando": "git show <commit-hash>",
+      "beskrivning": "Visar information om en specifik commit",
+      "användning": "git show <commit-hash>"
+    },
+    {
+      "kommando": "git blame <file>",
+      "beskrivning": "Visar vilken användare som lagt till varje rad i en fil",
+      "användning": "git blame <file>"
+    },
+    {
+      "kommando": "git grep <search-term>",
+      "beskrivning": "Söker efter ett speciellt ord i alla filer i arbetsmappen",
+      "användning": "git grep <search-term>"
+    },
+    {
+      "kommando": "git log --graph",
+      "beskrivning": "Visar en grafisk representation av commit-historiken",
+      {"användning" : }
+     = git
+     = log
+     = 
+     =
+     =
+     =
+     =
+     = git
